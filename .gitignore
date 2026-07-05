@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Local env config file (contains API keys)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Optional: if you don't want to share your customized local database adjustments,
+# uncomment the line below. Otherwise, the default JSON database is included.
+# data/college_data.json
